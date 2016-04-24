@@ -1,6 +1,6 @@
 #! /bin/bash
 # This is Smittix's Setup Script - www.smittix.co.uk
-# I use this on new installations of Fedora any questions please ask smittix@fedoraproject.org
+# Instructions: chmod +x; sh freshfedora.sh;
 
 # dnf Fastest Mirror Plugin
 dnf install -y yum-plugin-fastestmirror
